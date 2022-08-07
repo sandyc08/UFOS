@@ -9,6 +9,8 @@ There is a brief introduction under the header about aliens and sightings, that 
 ![home page](https://user-images.githubusercontent.com/106573185/183274227-892c3e4c-5017-4960-ae23-885729dda6bb.PNG)
 
 Underneath the introduction, the user will find that the first sixteen sightings are listed, but to the left of that information is where the user can interact with the website. In the "Filter Search", section the user can look for sightings on a given day, city, state, country or by shape. They can even use all the filters to find specific sightings.
+
+
 ![filters](https://user-images.githubusercontent.com/106573185/183274405-2a8a3954-4e2f-4069-97ff-baae7c92058b.PNG)
 
 The user may choose as many filters as they would like to add to query, for example if they only wanted to find the sightings in Arizona, they would only need enter "AZ."
